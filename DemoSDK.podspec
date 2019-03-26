@@ -3,6 +3,7 @@ s.name             = "DemoSDK"
 s.version          = "1.0"
 s.summary          = "A framework for view KB and Submit ticket module for iOS app"
 s.license       = { :type => 'MIT' }
+s.homepage      = 'https://desk.zoho.com'
 s.author           = { "Zoho Desk mobile" => "balasubramanian.k@zohocorp.com" }
 s.source           = { :git => "https://github.com/BalaKarunakaran/DemoSDK.git", :tag => s.version }
 s.platform         = :ios, '9.0'
